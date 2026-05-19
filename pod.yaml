@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: myapp
+  labels:
+    app: web
+spec:
+  containers:
+  - name: meu-nginx
+    image: meu-frontend:v1   
+    imagePullPolicy: Never 
