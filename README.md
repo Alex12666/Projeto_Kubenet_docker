@@ -12,7 +12,7 @@ O projeto foi estruturado em 3 camadas principais, trabalhando de fora para dent
 
 ---
 
-## 🛠️ Guia de Comandos (Para Amanhã)
+## 🛠️ Guia de Comandos
 
 ### Passo 1: Construir a Imagem Docker (na pasta do front)
 ```bash
